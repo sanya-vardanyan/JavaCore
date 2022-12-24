@@ -13,7 +13,7 @@ public class VarExample {
 //        System.out.println(e);
 //        e = false;
 
-        String name = "Poxos\n\"Poxosyan\"";
+        String name = "Poxos\n\";Poxosyan\"";
         System.out.println(name);
     }
 }
